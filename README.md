@@ -1,6 +1,4 @@
-Here is a **structured README draft** for your GitHub project based on your eCommerce Store Dashboard Power BI file and dataset overview:
 
----
 
 # 🛒 eCommerce Store Dashboard
 
@@ -95,6 +93,4 @@ This project helps understand:
 
 Prepared by **Nikhil Gautam Tadayya** for learning, portfolio, and business analytics practice.
 
----
 
-If you want, I can refine it further into markdown with badges and GitHub-friendly formatting before you push it to your repository today. Let me know.
